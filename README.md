@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastro993&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastro993&theme=darcula)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mastro993&theme=darcula)](https://wakatime.com/@SpeedJack)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fedemas&theme=darcula)](https://wakatime.com/@SpeedJack)
 
