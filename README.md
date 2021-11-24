@@ -2,7 +2,8 @@
 <h3 align="left">A passionate Frontend Engineer from Italy</h3>
   
 - ❤ I love developing **Web and Mobile apps** using **UI and UX as a fundation**
-- 💻 I'm currently working on a **super secret Flutter project**
+- 👨‍💻 I'm currently working as **Software Engineer** for **Fincantieri Nextech** in the **Defense & Aerospace** field
+- 💻 I'm currently developing a personal **super secret Flutter project**
 - ✉ You can contact me dropping an email at federicomastrini93@gmail.com
 - 🌐 Take a look at my website for more: <a href="http://fedemas.me" target="_blank">fedemas.me</a>
 
