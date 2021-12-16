@@ -10,11 +10,13 @@
 
 ### Tech Stack
 
-![Flutter](https://img.shields.io/badge/flutter-4285f4.svg?&style=for-the-badge&logo=flutter&logoColor=white)
-![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJs](https://img.shields.io/badge/node.js-6cc24a.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-white?logo=flutter&logoColor=4285f4&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-a4c639?logo=android&logoColor=white&style=for-the-badge)
 ![iOS](https://img.shields.io/badge/iOS-8e8e93?logo=apple&logoColor=white&style=for-the-badge)
+![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor00d8ff)
+![VueJS](https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white&style=for-the-badge)
+![NodeJs](https://img.shields.io/badge/node.js-6cc24a.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### Find me
 
