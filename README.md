@@ -7,7 +7,7 @@
 - ✉ You can contact me throwing a knife@fedemas.me
 - 🌐 Take a look at my website for more: <a href="http://fedemas.me" target="_blank">fedemas.me</a>
 
-### Find me
+### Connect with me
 
 [![Twitter](https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xfedemas)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedemas)
