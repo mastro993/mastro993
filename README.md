@@ -2,7 +2,7 @@
  I'm Federico, a passionate Software Engineer from Italy
   
 - 💻 I like to code **Web and Mobile apps** using **UI and UX as a fundation**
-- 👨‍💻 I'm currently working as **Software Engineer** for **Fincantieri Nextech** in the **Defense & Aerospace** field
+- 👨‍💻 I'm currently working as **Frontend Engineer** for **Develon Group**
 - ❤ I love hiking and lose myself in the beauty of nature
 - ✉ You can contact me throwing a knife@fedemas.me
 - 🌐 Take a look at my website for more: <a href="http://fedemas.me" target="_blank">fedemas.me</a>
