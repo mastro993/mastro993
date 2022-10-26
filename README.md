@@ -1,10 +1,9 @@
 ## Hey there 👋
  I'm Federico, a passionate Software Engineer from Italy
   
-- 💻 I like to code **Web and Mobile apps** using **UI and UX as a fundation**
-- 👨‍💻 I'm currently working as **Software Engineer** making **Mobile Apps** for **Develon Group**
+- 💻 I like to code **Web and Mobile apps**
+- 👨‍💻 I'm currently working as **Mobile Software Engineer** at **PagoPA S.p.A.**
 - ❤ I love hiking and lose myself in the beauty of nature
-- ✉ You can contact me throwing a knife@fedemas.me
 - 🌐 Take a look at my website for more: <a href="http://fedemas.me" target="_blank">fedemas.me</a>
 
 ### Connect with me
