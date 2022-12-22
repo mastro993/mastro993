@@ -6,6 +6,8 @@
 - ❤ I love hiking and lose myself in the beauty of nature
 - 🌐 Take a look at my website for more: <a href="http://fedemas.me" target="_blank">fedemas.dev</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastro993&show_icons=true&theme=tokyonight)
+
 ### Connect with me
 
 [![Twitter](https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xfedemas)
