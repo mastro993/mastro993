@@ -17,5 +17,6 @@
 [![Instagram](https://img.shields.io/badge/instagram-e1306c.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/0xfedemas__)
 
 ![Profile views aka page refresh](https://komarev.com/ghpvc/?username=mastro993&label=Profile%20views&color=0e75b6&style=flat)
+[![wakatime](https://wakatime.com/badge/user/868f3294-cb69-4b47-9b99-884d162966b3.svg)](https://wakatime.com/@868f3294-cb69-4b47-9b99-884d162966b3)
 
 
