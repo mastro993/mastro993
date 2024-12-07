@@ -4,7 +4,7 @@
 - 💻 I like to code **Web and Mobile apps**
 - 👨‍💻 I'm currently working as **Mobile Software Engineer** at **PagoPA S.p.A.**
 - ❤ I love hiking and getting lost in the beauty and tranquility of nature
-- 🌐 Check out my website for more: <a href="http://fedemas.me" target="_blank">fedemas.dev</a>
+- 🌐 Check out my website for more: <a href="http://fedemas.dev" target="_blank">fedemas.dev</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastro993&show_icons=true&theme=tokyonight)
 
