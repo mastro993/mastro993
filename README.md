@@ -1,14 +1,18 @@
-## Hey there 👋
- I'm Federico, a passionate Software Engineer from Italy
-  
-- 💻 I like to code **Web and Mobile apps**
-- 👨‍💻 I'm currently working as **Mobile Software Engineer** at **PagoPA S.p.A.**
-- ❤ I love hiking and getting lost in the beauty and tranquility of nature
-- 🌐 Check out my website for more: <a href="http://fedemas.dev" target="_blank">fedemas.dev</a>
+## 👋 Hi, I'm Federico
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastro993&show_icons=true&theme=tokyonight)
+I'm a passionate **Software Engineer** from Italy 🇮🇹, focused on building **Web** and **Mobile** experiences.
 
-![Profile views aka page refresh](https://komarev.com/ghpvc/?username=mastro993&label=Profile%20views&color=0e75b6&style=flat)
-[![wakatime](https://wakatime.com/badge/user/868f3294-cb69-4b47-9b99-884d162966b3.svg)](https://wakatime.com/@868f3294-cb69-4b47-9b99-884d162966b3)
+- 🔧 Currently working as a **Senior Mobile Software Engineer** at [**PagoPA S.p.A.**](https://www.pagopa.it)
+- 📱 I love crafting clean, user-friendly interfaces and efficient cross-platform apps
+- 🌲 When I'm not coding, you’ll find me **hiking** and getting lost in nature’s beauty
+- 🌐 More about me on [**fedemas.dev**](https://fedemas.dev)
 
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mastro993&show_icons=true&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mastro993&label=Profile%20views&color=0e75b6&style=flat)  
+[![Wakatime](https://wakatime.com/badge/user/868f3294-cb69-4b47-9b99-884d162966b3.svg)](https://wakatime.com/@868f3294-cb69-4b47-9b99-884d162966b3)
 
