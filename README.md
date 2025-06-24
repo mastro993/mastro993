@@ -12,7 +12,7 @@ I'm a passionate **Software Engineer** from Italy 🇮🇹, focused on building 
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mastro993&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mastro993&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mastro993&theme=tokyonight&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mastro993&theme=tokyonight&no-frame=false&margin-w=4)
