@@ -17,6 +17,10 @@ I'm a passionate **Software Engineer** from Italy 🇮🇹, focused on building 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mastro993&theme=tokyonight&no-frame=false&margin-w=4)
 
+### 🛠️ Roadmap.sh
+
+[![roadmap.sh](https://roadmap.sh/card/wide/688b181b087fc9883f4e93ca?variant=dark&roadmaps=rust%2Caws%2Cfull-stack)](https://roadmap.sh)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mastro993&icon=0&color=0)](https://visitcount.itsvg.in)
