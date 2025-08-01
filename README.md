@@ -19,7 +19,7 @@ I'm a passionate **Software Engineer** from Italy 🇮🇹, focused on building 
 
 ### 🛠️ Roadmap.sh
 
-[![roadmap.sh](https://roadmap.sh/card/wide/688b181b087fc9883f4e93ca?variant=dark&roadmaps=rust%2Caws%2Cfull-stack)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/688b181b087fc9883f4e93ca?variant=dark)](https://roadmap.sh)
 
 ---
 
